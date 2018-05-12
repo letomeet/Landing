@@ -31,9 +31,8 @@ h1{
 .card {
   text-align: center;
   padding: 80px
-  font-weight: lighter;
+  }
 
-}
 h2 {
   font-family: Courier;
   color: pink;
